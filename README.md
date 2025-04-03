@@ -46,7 +46,7 @@ Follow these steps to set up and run the project locally:
 
 1️⃣ **Clone the repository:**
 ```bash
- git clone https://github.com/your-repo/flutter-bmi-calculator.git
+ git clone https://github.com/TirthChhatrala/Flutter_BMI_Calculator_App.git
 ```
 
 2️⃣ **Navigate to the project folder:**
